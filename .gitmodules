@@ -1,3 +1,5 @@
 [submodule "cookbooks/chef-postgresql"]
 	path = cookbooks/chef-postgresql
 	url = https://github.com/phlipper/chef-postgresql.git
+	tag = v0.16.0
+
